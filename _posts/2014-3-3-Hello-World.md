@@ -1,9 +1,10 @@
 ---
 layout: post
 title: You're up and running!
+published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+This is the first test post, clone [Jekyll](http://jekyllrb.com/), browse to prose.io and provide credentials to your github account, select your [user.github.io](https://gerryamurphy.github.io) project and you are good to go.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
