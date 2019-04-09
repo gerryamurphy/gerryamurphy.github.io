@@ -2,14 +2,18 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Current intestests are Javascript, Node, Linux system admin, virtualization, Docker, swithing and Network Security. Not all these are personal, some are as a result of my projects in Apcon. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Live and work in Portland, OR
+
+![170906153922-portland-oregon-large-169.jpg]({{site.baseurl}}/170906153922-portland-oregon-large-169.jpg)
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@gerrymurphy.org](mailto:email@gerrymurphy.org)
