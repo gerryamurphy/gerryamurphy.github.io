@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-Current intestests are Javascript, Node, Linux system admin, virtualization, Docker, swithing and Network Security. Not all these are personal, some are as a result of my projects in Apcon. 
+Current interests include Javascript, Node, Linux system admin, virtualization, Docker, swithing and Network Security.  
 
 ### More Information
 
@@ -16,4 +16,4 @@ Live and work in Portland, OR
 
 ### Contact me
 
-[email@gerrymurphy.org](mailto:email@gerrymurphy.org)
+[gerry@gerrymurphy.org](mailto:email@gerrymurphy.org)
