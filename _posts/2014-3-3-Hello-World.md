@@ -1,7 +1,7 @@
 ---
 layout: post
 title: You're up and running!
-published: true
+published: false
 ---
 
 This is the first test post, clone [Jekyll](http://jekyllrb.com/), browse to prose.io and provide credentials to your github account, select your [user.github.io](https://gerryamurphy.github.io) project and you are good to go.
